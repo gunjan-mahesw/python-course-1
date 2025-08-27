@@ -1,6 +1,8 @@
-a=50
-b=3
-print("The value of",a,"+",b,"is",a+b)
-print("The value of",a,"*",b,"is",a*b)
-print("The value of",a,"-",b,"is",a-b)
-print("The value of",a,"/",b,"is",a/b)
+
+a="4"
+b="2"
+print(int(a) + int(b))
+#implicit TypeCasting
+c=1.9
+d=8
+print(c+d)
